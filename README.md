@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dj-group789
+- 👋 Hi, I’m @Dipam
 - 👀 I’m interested in entrepreneurship
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on new developing
